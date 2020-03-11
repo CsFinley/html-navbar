@@ -1,0 +1,37 @@
+<html>
+    <head>
+    </head>
+    <body>
+      <div class="nav--desktop">Nav Desktop features two major divisions-
+        <div class="mobile-wrapper">One major division
+          <div class="header-cart__wrapper hidden-lg">
+            <a href="/cart" class="CartToggle header-cart">An anchor and attribute.
+              <i class="icon icon-ra_bag"></i> i tag is text with different semantic meaning - possibly Italic.
+            </a>
+            <span class="header-cart__bubble cartCount has-items cartCount-updater  hidden-count">0</span>
+          </div>
+          <div class="logo-wrapper"
+            <h1 class=class="h4 header-logo" itemscope itemtype="http://schema.org/Organization"> Unsure about itemscope
+              <a href="/" itemprop="url">
+                <iclass="icon icon-ra_primary-logo">
+                ::before - not sure of this code.
+                </i>
+              </a>
+            </h1> end of header
+        <div class="header-menu nav-wrapper">Second major division
+          <ul class="main-menu accessibleNav">An unordered list
+            <li class="grandparent  kids-4">List items below..
+              <a href="#" class="nav-link" id="Shop">Shop</a>
+              <a href="#" class="nav-carat">
+                  <span class="plus">+</span>
+                  <span class="minus">-</span>
+              </a>
+              <div class="main-menu-dropdown">
+                <ul class="main-menu-dropdown--list">Here there is a long unorderedist(/<ul>
+
+                </ul>)
+              </div>
+            </li>
+
+    </body>
+</html>
